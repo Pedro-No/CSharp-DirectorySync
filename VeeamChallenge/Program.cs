@@ -8,13 +8,14 @@ using System.Threading;
 namespace VeeamChallenge {
     internal class Program {
         static void Main(string[] args) {
+            // Check correct number of arguments
             if (args.Length != 4) {
                 Console.WriteLine("Usage: VeeamChallenge.exe <sourcePath> <replicaPath> <logDesiredPath> <syncIntervalInSeconds>");
                 Console.ReadKey();
                 return;
             }
 
-            // Parse the command-line arguments
+            // Parse arguments
             string sourcePath = args[0];
             string replicaPath = args[1];
             string logDesiredPath = args[2];
