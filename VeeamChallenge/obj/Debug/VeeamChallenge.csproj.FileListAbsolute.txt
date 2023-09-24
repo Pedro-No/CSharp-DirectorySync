@@ -1,0 +1,7 @@
+C:\Users\P\Documents\CSharp\VeeamChallenge\VeeamChallenge\bin\Debug\VeeamChallenge.exe.config
+C:\Users\P\Documents\CSharp\VeeamChallenge\VeeamChallenge\bin\Debug\VeeamChallenge.exe
+C:\Users\P\Documents\CSharp\VeeamChallenge\VeeamChallenge\bin\Debug\VeeamChallenge.pdb
+C:\Users\P\Documents\CSharp\VeeamChallenge\VeeamChallenge\obj\Debug\VeeamChallenge.csproj.AssemblyReference.cache
+C:\Users\P\Documents\CSharp\VeeamChallenge\VeeamChallenge\obj\Debug\VeeamChallenge.csproj.CoreCompileInputs.cache
+C:\Users\P\Documents\CSharp\VeeamChallenge\VeeamChallenge\obj\Debug\VeeamChallenge.exe
+C:\Users\P\Documents\CSharp\VeeamChallenge\VeeamChallenge\obj\Debug\VeeamChallenge.pdb

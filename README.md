@@ -1,2 +1,2 @@
 # CSharp-DirectorySync
-CSharp Directory Sync Program
+CSharp Directory Syncing Program
